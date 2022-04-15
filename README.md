@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphaPlayerLife
 - 👀 I’m interested in gym
 - 🌱 I’m currently learning html, CSS, JS
-- 💞️ I’m looking to collaborate on first programmer job
+- 💞️ I’m looking to  first job as programmer
 - 📫 How to reach me: https://www.linkedin.com/in/patryk-jakubowski-a42167123/
 
 <!---
