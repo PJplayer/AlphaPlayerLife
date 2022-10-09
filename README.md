@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlphaPlayerLife
+- 👋 Hi, I’m @PJplayer
 - 👀 I’m interested in gym
 - 🌱 I’m currently learning Java ☕
 - 💞️ I’m looking to  first job as programmer
